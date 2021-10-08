@@ -46,6 +46,18 @@
   <br>
   <br>
   <img width="950" alt="image" src="https://user-images.githubusercontent.com/85103972/136522929-895061b1-a257-4e9d-b423-5833df754206.png">
+ <h4> 상세 페이지 </h4>
+    - 상품이 품절인지, 판매중 인지 확인이 가능합니다<br>
+    - 상품이 판매중일 경우 수량을 정해 장바구니담기, 주문하기 기능을 사용할수 있습니다
+    <br>
+    <br>
+    <span><img width="294" alt="image" src="https://user-images.githubusercontent.com/85103972/136527650-29ebec24-3d00-4ec2-80b9-9178c85635b2.png">
+  <img width="243" alt="image" src="https://user-images.githubusercontent.com/85103972/136527668-7409a938-1eb2-4809-8280-37a8d3f45e51.png">
+
+</span>
+    
+   
+ 
  
   <h3> 검색 기능 </h3>
   - 제목에 포함된 글자를 입력하면 검색 결과가 화면에 출력됩니다
@@ -65,6 +77,7 @@
   - 가입시 비밀번호를 암호화해 줍니다 (BCryptPasswordEncoder 사용)<br>
   - 가입이 완료되면 메인 페이지로 이동합니다
   <br>
+  <br>
   <img width="492" alt="image" src="https://user-images.githubusercontent.com/85103972/136526687-ea3c4c05-4f8a-4681-9fcc-788a02fa3226.png">
 
 <h4> 로그인 하기 </h4>
@@ -73,6 +86,7 @@
     - 로그인 실패시 error 메시지를 출력합니다
     - 로그인 성공시 session에 회원정보를 저장하여 로그인 상태를 유지해 줍니다
     - 로그인 성공시 메인 페이지로 이동합니다
+    <br>
     <br>
     <img width="450" alt="image" src="https://user-images.githubusercontent.com/85103972/136526499-71f3f0c7-82f0-4140-9cc5-72b5c0c13f7a.png">
 
