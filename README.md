@@ -3,37 +3,39 @@
 <h1> CoffeeShop Project 🚀 <h2>
 [쇼핑몰시연영상](https://www.naver.com)
 <h1> 📖 프로젝트 기능 </h2>
-  * 회원가입<br>
-  *상품 주문<br>   
-  * 상품 장바구니 & 주문관리 <br>  
-  * 관리자 페이지를 통한 상품 등록 & 수정 
+  - 회원가입<br>
+  - 상품 주문<br>   
+  - 상품 장바구니 & 주문관리 <br>  
+  - 관리자 페이지를 통한 상품 등록 & 수정 
  
 
   
   <h1> 📕 기술 스택 </h1>
   
   <h3> 📙 프론트 엔드 </h3>
-  HTML<br>
-  CSS<br>
-  JavaScript(jQuery)<br>
-  Thymeleaf
+  - HTML<br>
+  - CSS<br>
+  - JavaScript(jQuery)<br>
+  - Thymeleaf
   <h3> 📙 백앤드 </h3>
-  Spring Boot<br>
-  Spring Data JPA<br>
-  Spring Security<br>
-  QueryDsl<br>
-  h2<br>
-  MySql
+  - Spring Boot<br>
+  - Spring Data JPA<br>
+  - Spring Security<br>
+  - QueryDsl<br>
+  - h2<br>
+  - MySql
   
-  <h1> 📦 개발 환경 </h2>
+  <h1> 📦 개발 환경 </h1>
   
   intellij<br>
   VsCode
-  
-  <h1>📸 ScreenShot 및 기능 </h2>
-  
+
+ <h1> 🖥 ER_Diagram (7개의 테이블)</h1>
  <img width="717" alt="image" src="https://user-images.githubusercontent.com/85103972/136509207-a053163c-f1f9-4ead-9fb1-b526ec5a565a.png">
 
+ 
+  <h1>📸 ScreenShot 및 기능 </h1>
+ 
   
 
   
