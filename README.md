@@ -1,7 +1,7 @@
 
 
 <h1> CoffeeShop Project 🚀 </h1>
-[쇼핑몰시연영상](https://www.naver.com)
+쇼핑몰시연영상 -> (https://www.youtube.com/watch?v=kewBcOk0xao)
 <h1> 📖 프로젝트 기능 </h2>
   - 회원가입<br>
   - 상품 주문<br>   
