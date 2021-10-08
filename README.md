@@ -1,6 +1,6 @@
 
 
-<h1> CoffeeShop Project 🚀 </h1>
+<h1> CoffeeShop Project ☕️ </h1>
 쇼핑몰시연영상 -> (https://www.youtube.com/watch?v=kewBcOk0xao)
 <h1> 📖 프로젝트 기능 </h2>
   - 회원가입<br>
@@ -35,6 +35,7 @@
  <br>
  
   <h1>📸 ScreenShot 및 기능 </h1>
+  
   <h3> 🔎 메인 페이지   </h3>
   - Spring Security 에서 비회원, 회원, 관리자에 따라 작업을 수행할수 있는 주체인지 확인을 해줍니다
   
@@ -59,12 +60,12 @@
    
  
  
-  <h3> 검색 기능 </h3>
+  <h3> 🕵️‍♀️ 검색 기능 </h3>
   - 제목에 포함된 글자를 입력하면 검색 결과가 화면에 출력됩니다
   <br>
   <img width="582" alt="image" src="https://user-images.githubusercontent.com/85103972/136511329-a7d2b1e2-6cb1-4bf3-a520-a66bf264799f.png">
   
-   <h4> 로그인 & 회원가입 화면 </h4>
+   <h4> 👨‍💻 로그인 & 회원가입 페이지 </h4>
   - Spring Security를 이용하여 인증과 권한을 체크합니다<br>
   - 암호화 된 비밀번호를 복호화 시켜 사용자가 입력한 비밀번호과 비교하여 로그인 성공 여부를 체크합니다<br>
   - 로그인 실패시 error 메시지를 출력합니다<br>
@@ -76,7 +77,7 @@
 
 </span>
 
-<h4> 회원 가입 </h4>
+<h4> 👼 회원 가입 페이지 </h4>
   - 중복 확인을 하여 회원일시 script를 이용하여 알림창을 띄워줍니다<br>
   - 가입시 안 적힌 부분은 정규 표현식을 이용하여 이름, 이메일, 비밀번호, 주소를 제한합니다<br>
   - 가입시 비밀번호를 암호화해 줍니다 (BCryptPasswordEncoder 사용)<br>
@@ -86,6 +87,21 @@
   <img width="492" alt="image" src="https://user-images.githubusercontent.com/85103972/136526687-ea3c4c05-4f8a-4681-9fcc-788a02fa3226.png">
 
 
+<h3> 🎒 장바구니 페이지 </h3>
+   - 장바구니 수량을 배열로 받아서 수량을 수정해줍니다<br>
+   - 상품 선택 후 수량을 수정하면 총 주문 금액 가격이 바뀝니다<br>
+   - x 버튼을 클릭하면 상품이 삭제굅니다<br>
+   - 주문하기 버튼을 누르면 주문 완료 알람후 구매 이력 페이지로 이동합니다
+<br>
+<br>
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/85103972/136528793-a5717088-6b11-4d58-8db6-438bd762b333.png">
 
-
+  <h3> 👍 상품 구매 이력 페이지 </h3>
+  - 주문 내역 리스트들과 주문날짜, 시간이 출력됩니다<br>
+  - 주문 취소 버튼을 누르면 취소완료 알람후 취소가 완료됩니다<br>
+  <span>
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/85103972/136529165-e5f1fd1b-450a-47c1-81ec-5d0968390fe2.png">
+</span>
+  
+  
   
