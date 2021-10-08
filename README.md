@@ -13,18 +13,18 @@
    <h4> 운영 체제</h4>
       - MAC Big Sur
    <h4> DBMS </h4>
-      - MySql
+      - MySql<br>
       - h2
     <h4> Tool </h4>
-      - intellij
+      - intellij<br>
       - VS Code
     <h4> 라이브러리 및 사용 기술 </h4>
-      - Spring Boot
-      - Spring Data JPA
-      - Maven
-      - Spring Security
-      - query
-      - QueryDsl
+      - Spring Boot<br>
+      - Spring Data JPA<br>
+      - Maven<br>
+      - Spring Security<br>
+      - query<br>
+      - QueryDsl<br>
       - JavaScript(jQuery)
    
 
