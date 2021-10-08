@@ -7,28 +7,26 @@
   - 상품 주문<br>   
   - 상품 장바구니 & 주문관리 <br>  
   - 관리자 페이지를 통한 상품 등록 & 수정 
- 
 
   
-  <h1> 📕 기술 스택 </h1>
-  
-  <h3> 📙 프론트 엔드 </h3>
-  - HTML<br>
-  - CSS<br>
-  - JavaScript(jQuery)<br>
-  - Thymeleaf
-  <h3> 📙 백앤드 </h3>
-  - Spring Boot<br>
-  - Spring Data JPA<br>
-  - Spring Security<br>
-  - QueryDsl<br>
-  - h2<br>
-  - MySql
-  
-  <h1> 📦 개발 환경 </h1>
-  
-  intellij<br>
-  VsCode
+  <h1> 📦 프로젝트 개발 환경 </h1>
+   <h4> 운영 체제</h4>
+      - MAC Big Sur
+   <h4> DBMS </h4>
+      - MySql
+      - h2
+    <h4> Tool </h4>
+      - intellij
+      - VS Code
+    <h4> 라이브러리 및 사용 기술 </h4>
+      - Spring Boot
+      - Spring Data JPA
+      - Maven
+      - Spring Security
+      - query
+      - QueryDsl
+      - JavaScript(jQuery)
+   
 
  <h1> 🖥 ER_Diagram (7개의 테이블)</h1>
   <br>
@@ -39,6 +37,7 @@
  
   <h1>📸 ScreenShot 및 기능 </h1>
   <h3> 🔎 메인 페이지   </h3>
+  
   
   <h4>메인 화면</h4>
    - 최근 등록된 상품 순서로 로딩, 클릭하면 상세 페이지로 이동, 6 item 씩 볼수있고 페이징 기능 사용
