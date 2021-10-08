@@ -86,7 +86,7 @@
   <br>
   <img width="492" alt="image" src="https://user-images.githubusercontent.com/85103972/136526687-ea3c4c05-4f8a-4681-9fcc-788a02fa3226.png">
 
-
+<h2> ☺️ 일반 회원 </h2>
 <h3> 🎒 장바구니 페이지 </h3>
    - 장바구니 수량을 배열로 받아서 수량을 수정해줍니다<br>
    - 상품 선택 후 수량을 수정하면 총 주문 금액 가격이 바뀝니다<br>
@@ -98,10 +98,46 @@
 
   <h3> 👍 상품 구매 이력 페이지 </h3>
   - 주문 내역 리스트들과 주문날짜, 시간이 출력됩니다<br>
-  - 주문 취소 버튼을 누르면 취소완료 알람후 취소가 완료됩니다<br>
+  - 주문 취소 버튼을 누르면 취소완료 알람후 취소가 완료됩니다
+  <br>
+  <br>
   <span>
 <img width="439" alt="image" src="https://user-images.githubusercontent.com/85103972/136529165-e5f1fd1b-450a-47c1-81ec-5d0968390fe2.png">
 </span>
   
+  
+<h2> 🥰 관리자 </h2>
+
+<h3> 관리자 상품 등록 페이지 </h3>
+- 관리자 만이 상품 등록 가능합니다 ( 등록된 상품은 삭제할수 없습니다)<br>
+- 빈칸일 경우 경고를 보여줍니다<br>
+- 첫번째 상품 이미지는 메인 페이지의 썸네일로 보여집니다<br>
+- 최대 5장까지 등록 가능합니다<br>
+- 저장버튼을 클릭하면 메인화면으로 이동합니다
+<br>
+<br>
+<span>
+  <img width="448" alt="image" src="https://user-images.githubusercontent.com/85103972/136529804-51505b96-96e3-4b7f-8b2e-e396555f8d8d.png">
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/85103972/136529816-71f897ac-05ab-4b29-8183-d1f2c6ed81db.png">
+
+</span>
+
+<h3> 관리자 상품 수정 </h3>
+- 관리자만 상품 수정이 가능합니다<br>
+- 1일, 1주, 1개원, 6개월 별로 검색이 가능합니다<br>
+- 판매 상태에 따라 검색이 가능합니다<br>
+- 원하는 상품명, 등록자를 검색할 수 있습니다.<br>
+- 상품명을 클릭하면 수정 페이지로 이동합니다
+<br>
+<br>
+
+<span>
+  <img width="430" alt="image" src="https://user-images.githubusercontent.com/85103972/136529593-4e82bfef-cf51-4774-8f0d-c0d61fac25fd.png">
+
+  <img width="355" alt="image" src="https://user-images.githubusercontent.com/85103972/136529627-cf215af4-f4e2-49ea-a66e-e89f46bf5dd0.png">
+
+  <img width="484" alt="image" src="https://user-images.githubusercontent.com/85103972/136529740-cce3370a-94aa-4104-a238-766f9e3464b4.png">
+
+  </span>
   
   
