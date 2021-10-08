@@ -11,12 +11,12 @@
   
   <h1> 📕 기술 스택 </h1>
   
-  <h3> 프론트 엔드 </h3>
+  <h3> 📙 프론트 엔드 </h3>
   HTML<br>
   CSS<br>
   JavaScript(jQuery)<br>
   Thymeleaf
-  <h3> 백앤드 </h3>
+  <h3> 📙 백앤드 </h3>
   Spring Boot<br>
   Spring Data JPA<br>
   Spring Security<br>
