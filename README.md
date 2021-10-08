@@ -43,12 +43,15 @@
   <h4>메인 화면</h4>
    - 최근 등록된 상품 순서로 로딩, 클릭하면 상세 페이지로 이동, 6 item 씩 볼수있고 페이징 기능 사용
   <br>
-  <h4>우측 네비게이션 바</h4>
+   <h4>우측 네비게이션 바</h4>
   - 어느 화면에서도 로그인, 상품 검색 가능
   <br>
   <br>
-  <img width="547" alt="image" src="https://user-images.githubusercontent.com/85103972/136510239-1adc8265-ea5e-4779-ba2a-f74a004f1a46.png">
-  
+  <img width="950" alt="image" src="https://user-images.githubusercontent.com/85103972/136522929-895061b1-a257-4e9d-b423-5833df754206.png">
+ <h4> 로그인 & 회원가입 화면 </h4>
+ <img width="701" alt="image" src="https://user-images.githubusercontent.com/85103972/136523160-b782aba4-b493-43cc-95fb-24723ce20aab.png">
+
+ 
   <h3> 상세 화면 </h3>
   <img width="582" alt="image" src="https://user-images.githubusercontent.com/85103972/136511329-a7d2b1e2-6cb1-4bf3-a520-a66bf264799f.png">
 
