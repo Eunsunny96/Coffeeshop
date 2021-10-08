@@ -65,11 +65,16 @@
   <img width="582" alt="image" src="https://user-images.githubusercontent.com/85103972/136511329-a7d2b1e2-6cb1-4bf3-a520-a66bf264799f.png">
   
    <h4> 로그인 & 회원가입 화면 </h4>
-  - 아이디와 비밀번호를 입력해 로그인 할수 있습니다<br>
-  - 회원이 아니라면 회원 가입 페이지로 이동할수 있습니다
+  - Spring Security를 이용하여 인증과 권한을 체크합니다<br>
+  - 암호화 된 비밀번호를 복호화 시켜 사용자가 입력한 비밀번호과 비교하여 로그인 성공 여부를 체크합니다<br>
+  - 로그인 실패시 error 메시지를 출력합니다<br>
+  - 로그인 성공시 session에 회원정보를 저장하여 로그인 상태를 유지해 줍니다<br>
+  - 로그인 성공시 메인 페이지로 이동합니다
   <br>
-   <img width="701" alt="image" src="https://user-images.githubusercontent.com/85103972/136523160-b782aba4-b493-43cc-95fb-24723ce20aab.png">
+ <span><img width="701" alt="image" src="https://user-images.githubusercontent.com/85103972/136523160-b782aba4-b493-43cc-95fb-24723ce20aab.png">
+     <img width="450" alt="image" src="https://user-images.githubusercontent.com/85103972/136526499-71f3f0c7-82f0-4140-9cc5-72b5c0c13f7a.png">
 
+</span>
 
 <h4> 회원 가입 </h4>
   - 중복 확인을 하여 회원일시 script를 이용하여 알림창을 띄워줍니다<br>
@@ -80,15 +85,6 @@
   <br>
   <img width="492" alt="image" src="https://user-images.githubusercontent.com/85103972/136526687-ea3c4c05-4f8a-4681-9fcc-788a02fa3226.png">
 
-<h4> 로그인 하기 </h4>
-- Spring Security를 이용하여 인증과 권한을 체크합니다
-    - 암호화 된 비밀번호를 복호화 시켜 사용자가 입력한 비밀번호과 비교하여 로그인 성공 여부를 체크합니다
-    - 로그인 실패시 error 메시지를 출력합니다
-    - 로그인 성공시 session에 회원정보를 저장하여 로그인 상태를 유지해 줍니다
-    - 로그인 성공시 메인 페이지로 이동합니다
-    <br>
-    <br>
-    <img width="450" alt="image" src="https://user-images.githubusercontent.com/85103972/136526499-71f3f0c7-82f0-4140-9cc5-72b5c0c13f7a.png">
 
 
 
