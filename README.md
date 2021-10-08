@@ -31,11 +31,16 @@
   VsCode
 
  <h1> 🖥 ER_Diagram (7개의 테이블)</h1>
+  <br>
+ 
  <img width="717" alt="image" src="https://user-images.githubusercontent.com/85103972/136509207-a053163c-f1f9-4ead-9fb1-b526ec5a565a.png">
-
+<br>
+ <br>
  
   <h1>📸 ScreenShot 및 기능 </h1>
- 
+  <h3> 메인 페이지 </h3>
   
+  <img width="547" alt="image" src="https://user-images.githubusercontent.com/85103972/136510239-1adc8265-ea5e-4779-ba2a-f74a004f1a46.png">
+
 
   
