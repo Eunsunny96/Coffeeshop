@@ -9,4 +9,28 @@
   관리자 페이지를 통한 상품 등록 & 수정   
   <hr>
   
+  <h1> 📕 기술 스택 </h1>
+  
+  <h3> 프론트 엔드 </h3>
+  HTML
+  CSS
+  JavaScript(jQuery)
+  Thymeleaf
+  <h3> 백앤드 </h3>
+  Spring Boot
+  Spring Data JPA
+  Spring Security
+  QueryDsl
+  h2
+  MySql
+  
+  <h1> 📦 개발 환경 </h2>
+  
+  intellij
+  VsCode
+  
+  <h1>📸 ScreenShot 및 기능 </h2>
+  
+  
+
   
